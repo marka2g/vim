@@ -10,7 +10,7 @@
 | :help                   | Vim's built in help |
 | `<C-]>` (ctrl + ])      | Follow a help tag |
 
-| Motions and Moving
+### Motions and Moving
 | -----------:            | -----------:|
 | w                       | Move forward one (w)ord |
 | b                       | Move (b)ackward one word |
