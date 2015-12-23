@@ -1,6 +1,6 @@
 | Mapping       | Summary |
 | -----------:  | -----------:|
-| <esc>         | Exit out os any mode back into normal mode |
+| `<esc>``      | Exit out os any mode back into normal mode |
 | :q or :quit   | Quit out of Vim |
 | :w or :write  | Write the current file |
 | j, k          | Move cursor down, move cursor up |
