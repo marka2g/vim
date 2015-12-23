@@ -8,8 +8,8 @@
 | i                       | Go into 'insert' mode |
 | x                       | Delete the character under the cursor |
 | :help                   | Vim's built in help |
-| To follow a help tag    | <C-]> (hold down control and press the right bracket key) |
-| -----------:            | -----------:|
+| `<C-]>` (ctrl + ])      | Follow a help tag |
+
 | Motions and Moving
 | -----------:            | -----------:|
 | w                       | Move forward one (w)ord |
