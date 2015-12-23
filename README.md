@@ -11,6 +11,8 @@
 | `<C-]>` (ctrl + ])      | Follow a help tag |
 
 ### Motions and Moving
+| Mapping                 | Summary |
+| -----------:            | -----------:|
 | w                       | Move forward one (w)ord |
 | b                       | Move (b)ackward one word |
 | e                       | Move forward to the (e)nd of a word |
